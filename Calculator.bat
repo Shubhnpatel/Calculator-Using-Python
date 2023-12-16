@@ -1,0 +1,1 @@
+pythonw.exe D:\Comding\Python\calculator\main.py
